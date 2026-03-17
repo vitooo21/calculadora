@@ -1,0 +1,14 @@
+C:\Users\ALUNO\source\repos\Geometria\bin\Debug\net10.0\Geometria.exe
+C:\Users\ALUNO\source\repos\Geometria\bin\Debug\net10.0\Geometria.deps.json
+C:\Users\ALUNO\source\repos\Geometria\bin\Debug\net10.0\Geometria.runtimeconfig.json
+C:\Users\ALUNO\source\repos\Geometria\bin\Debug\net10.0\Geometria.dll
+C:\Users\ALUNO\source\repos\Geometria\bin\Debug\net10.0\Geometria.pdb
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.AssemblyInfo.cs
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.dll
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\refint\Geometria.dll
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.pdb
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\Geometria.genruntimeconfig.cache
+C:\Users\ALUNO\source\repos\Geometria\obj\Debug\net10.0\ref\Geometria.dll
